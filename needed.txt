@@ -1,1 +1,85 @@
 Mozilla, Spotify, GitHub Desktop, PDF Reader, MS Office, VLC
+
+NOTES:
+
+1...
+PBL   >> STOPPED (09:32) of RETRIEVING DATA
+Firebase
+ - Sending
+   > authentication (registration details)
+   > general: fix the data structure; where would the gesture details go under the tree view, 
+   > gesture details (x, y, fX, fY, sX, sY)
+   > gesture attempt statistics (error ratio, blah)
+ - Query (List View)
+   > gesture details (in tree view)
+   > admin view (user list in tree view)
+ - Graphs and Tables in Android Studio (Graph View)
+Activities (Coding)
+ - Sequential gesture detection (for the firebase treeview)
+ - Verify the logic of all four/five gestures
+
+
+JVROIG --> Dagdag module para sa Flavio for the student activities; fill up the forms blahblah
+
+
+2...
+INTERN CHALLENGES
+ - Dont eat JUNK (incld. Fast Food)
+
+Jackson GOT7
+Momo's Voice, Still same or changed?
+
+P@ssword
+2566
+
+082197
+
+3...
+SERIES
+Fresh Off the Boat
+American Dad
+
+MOVIE
+The Good Doctor
+
+KOREAN
+After School Club
+Knowing Bros
+
+4...
+Update Mercato Prospects
+
+Continue the Agendas docu
+
+5...
+PPR EXAM REVIEW (HACKERRANK)
+MTA EXAM REVIEW
+
+SOAR
+Activity Proposals
+ - Sportsfest Photoshoot
+ - Mercato
+ - Rams Night
+ - Cheering Competition
+
+MS Forms
+ - Cheering Competition
+
+Send the Questions and Mechanics (T-Shirt Design Contest) to Sir Vince 
+
+6...
+MONDAY
+ PROJMAN	13:30-15:30
+ RIZLIFE	15:30-17:30
+TUESDAY
+ SOFTDEV	13:30-15:30
+ QUALITY	15:30-17:30
+THURSDAY
+ OCCP2		07:30-09:30
+ PROJMAN	13:30-15:30
+ RIZLIFE	15:30-17:30
+FRIDAY
+ SOFTDEV	13:30-15:30
+ QUALITY	15:30-17:30
+SATURDAY
+ CLDADMI	07:30-11:30
